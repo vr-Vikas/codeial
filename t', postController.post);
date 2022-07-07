@@ -1,0 +1,23 @@
+[33mcommit f1bcd18ca9993f56042da02652a67d058d9052d1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: vikas <gurrakotavikas@gmail.com>
+Date:   Tue Jun 28 18:39:10 2022 +0530
+
+    set up view enigne
+
+[33mcommit 78046f02f2506d71ab22758a4eb35193f9411d47[m
+Author: vikas <gurrakotavikas@gmail.com>
+Date:   Tue Jun 28 18:33:36 2022 +0530
+
+    add user controller
+
+[33mcommit 17466d48aa8b58cd63b0fa785745785cac6192a3[m
+Author: vikas <gurrakotavikas@gmail.com>
+Date:   Tue Jun 28 17:35:03 2022 +0530
+
+    add a controller and a route for home
+
+[33mcommit 5838dff7ea2d85a22b65edbfb2d992a206801309[m
+Author: vikas <gurrakotavikas@gmail.com>
+Date:   Tue Jun 28 17:10:26 2022 +0530
+
+    First Commit: Create the directory structure and setup express server
