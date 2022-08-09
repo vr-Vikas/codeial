@@ -9,7 +9,7 @@ module.exports.create = function(req, res){
         if(err){console.log('error in creating a post'); return;}
 
         return res.redirect('back');
-    })
+    });
 }
 
 module.exports.destroy = function(req, res) {
